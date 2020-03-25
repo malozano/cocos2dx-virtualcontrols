@@ -24,3 +24,17 @@ controls->addTouchListeners(this);
   - `VirtualStickAuto::create()`
   
 * You may also create your own subclass of `VirtualControls
+
+## Examples
+
+### Virtual Pad
+
+![Virtual Pad](Examples/virtual-pad.png)
+
+### Virtual Stick (fixed position)
+
+![Virtual Stick](Examples/virtual-stick.png)
+
+### Virtual Stick (self-positioned)
+
+![Virtual Stick Auto](Examples/virtual-stick-auto.png)
